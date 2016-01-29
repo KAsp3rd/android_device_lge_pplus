@@ -8,3 +8,4 @@
 
 /external_sd     vfat              /dev/block/mmcblk1p1  /dev/block/mmcblk1
 /usb-otg         vfat              /dev/block/sda1      /dev/block/sda              flags=removable;storage;display=USB-OTG
+

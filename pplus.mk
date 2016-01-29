@@ -30,11 +30,11 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     charger
 
-#PRODUCT_COPY_FILES += \
-#    device/lge/h901/kernel:kernel
+PRODUCT_COPY_FILES += \
+    device/lge/pplus/kernel:kernel
 
-PRODUCT_NAME := omni_h901
-PRODUCT_DEVICE := h901
+PRODUCT_NAME := pplus
+PRODUCT_DEVICE := pplus
 PRODUCT_BRAND := LG
 PRODUCT_MODEL := V10
 PRODUCT_MANUFACTURER := LG
