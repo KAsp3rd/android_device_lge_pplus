@@ -33,7 +33,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     device/lge/pplus/kernel:kernel
 
-PRODUCT_NAME := pplus
+PRODUCT_NAME := h901
 PRODUCT_DEVICE := pplus
 PRODUCT_BRAND := LG
 PRODUCT_MODEL := V10
